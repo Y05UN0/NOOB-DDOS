@@ -13,7 +13,7 @@ git clone https://github.com/Y05UN0/BAD-DDOS
 
 cd BAD-DDOS
 
-python ddos.py
+python2 ddos.py
 
 install for ubuntu / linux :
 
